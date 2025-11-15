@@ -4,8 +4,10 @@
 A comprehensive HR Analytics dashboard built for Bharat Sanchar Nigam Limited (BSNL) to visualize and analyze employee demographics, employment types, tenure, departmental distribution, and retirement trends.
 
 **📌 Overview**
+
 This Power BI dashboard provides a data-driven view of workforce distribution across BSNL locations and departments.
 It helps HR teams understand:
+
 •	Employee count and status
 •	Gender distribution
 •	Tenure and age group insights
