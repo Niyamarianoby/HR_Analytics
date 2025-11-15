@@ -9,36 +9,65 @@ This Power BI dashboard provides a data-driven view of workforce distribution ac
 It helps HR teams understand:
 
 •	Employee count and status
+
 •	Gender distribution
+
 •	Tenure and age group insights
+
 •	Retirement forecasting
+
 •	Department-wise workforce allocation
+
 •	Location-based employee presence
+
 The dashboard is designed to assist BSNL in effective HR planning, resource allocation, and decision-making.
 
+
 **🛠️ Technologies Used**
+
 •	Power BI Desktop
+
 •	Power Query (Data Cleaning & Transformation)
+
 •	DAX Measures
+
 •	Excel/CSV HR Dataset
+
 •	Data Modeling (Relationships, calculated fields)
 
+
 **📂 Dashboard Sections**
+
 🔹 **1. Total Employee Count**
+
 •	Displays total number of employees (Active + Retired).
+
 •	Helps understand overall workforce size.
+
 🔹 **2. Employee Status**
+
 •	Breakdown of Active vs Retired employees.
+
 🔹 **3. Employment Type**
+
 •	Categories such as:
+
 o	PERMANENT
+
 o	APPRENTICE
+
 🔹 **4. Gender Count by Location**
+
 •	A bar chart visualizing male, female, and other genders across all districts.
+
 🔹 **5. Employee Count by Department**
+
 •	Shows number of employees in ADMIN, IT, HR, NOC, MOBILE, OP, CFA, LEGAL, etc.
+
 •	Helps identify large and understaffed departments.
+
 🔹 **6. Tenure Distribution**
+
 •	Groups employees based on experience:
 o	0–5 years
 o	6–10 years
