@@ -1,6 +1,7 @@
 # HR_Analytics
 
 **📊 BSNL HR Analytics Dashboard – Power BI**
+
 A comprehensive HR Analytics dashboard built for Bharat Sanchar Nigam Limited (BSNL) to visualize and analyze employee demographics, employment types, tenure, departmental distribution, and retirement trends.
 
 **📌 Overview**
@@ -69,55 +70,103 @@ o	APPRENTICE
 🔹 **6. Tenure Distribution**
 
 •	Groups employees based on experience:
+
 o	0–5 years
+
 o	6–10 years
+
 o	11–15 years
+
 o	16–20 years
+
 o	21–25 years
+
 •	Useful for retention analysis.
+
 🔹 **7. Age Group Breakdown**
+
 •	Donut chart showing distribution across:
+
 o	20–29
+
 o	30–39
+
 o	40–49
+
 o	50–59
+
 o	60–69
+
 🔹 **8. Retirement Year Forecasting**
+
 •	Predicts upcoming retirements and their associated departments.
+
 •	Helps with long-term manpower planning.
+
 🔹 **9. Employee Count by Location**
+
 •	Pie chart showing the employee distribution across districts such as:
+
 Kottayam, Thiruvananthapuram, Malappuram, Kannur, Kozhikode, etc.
 
+
 **📈 Key Insights**
+
 •	Total employees analyzed: 2453
+
 •	Largest age group: 20–29 years (~60%)
+
 •	Highest tenure group: 6–10 years
+
 •	Major departments include ADMIN, MOBILE, IT, CFA
+
 •	Retirement spike observed in the years 2055–2060
 
+
 **🔧 How the Dashboard Was Built**
+
 ✔ Data Cleaning & Transformation
+
 •	Removed duplicates
+
 •	Filled missing values
+
 •	Standardized columns
+
 •	Created tenure and age groups
+
 ✔ Data Modeling
+
 •	Built relationships between tables
+
 •	Created DAX measures for accurate calculations
+
 ✔ Visualization Techniques
+
 •	Bar charts
+
 •	Line charts
+
 •	Donut & Pie charts
+
 •	KPI cards
+
 •	Slicers for filtering (Status, Employment Type, Location)
 
 
+
 **🎯 Purpose of the Dashboard**
+
 This dashboard is used for:
+
 •	Workforce planning
+
 •	Retirement forecasting
+
 •	Gender and diversity analysis
+
 •	Understanding location and department workload
+
 •	HR decision-making and reporting
+
 
