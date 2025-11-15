@@ -8,7 +8,7 @@ A comprehensive HR Analytics dashboard built for Bharat Sanchar Nigam Limited (B
 
 This Power BI dashboard provides a data-driven view of workforce distribution across BSNL locations and departments.
 It helps HR teams understand:
-
+ 
 •	Employee count and status
 
 •	Gender distribution
